@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ramya202000
+- 👋 Hi, I’m Ramya
 - 👀 I’m interested in Programming, Web development
 - 🌱 I’m currently learning Reactjs, Data structures and algorithm using java
-- 💞️ I’m looking to collaborate on ...
 - 📫 you can reach out me on ramya20001220@gmail.com ...
 
 <!---
